@@ -1,0 +1,15 @@
+
+            h1{
+                color: blueviolet;
+                font: bolder;
+                text-align: center;
+                text-shadow: deeppink;
+            }
+
+            ol{
+                color: darkolivegreen;
+                font-style: italic;
+                font: bolder;
+                text-decoration: darkturquoise;
+                text-align: center;
+            }
